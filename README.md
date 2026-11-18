@@ -1,6 +1,8 @@
 # AV Silencer
 Chrome Extension that mutes AV whenever he starts talking, playing music in the background with announcements. 
 
+Download: https://github.com/NikolaPrvulovic/av-silencer/releases/tag/v0.6
+
 To install it you need to:
 
 1. Unpack the .zip file.
